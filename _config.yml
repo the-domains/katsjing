@@ -1,0 +1,28 @@
+name: Katsjing
+favicon: null
+layout_spectrum: 0.03529799450188875
+typography_spectrum: 0.08999580354429781
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.23410871485248208
+  lightness: 0.7406431073322892
+  saturation: 0.6174188409931958
+  rhythmicContrast: 0.2560499713290483
+purpose: []
