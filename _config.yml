@@ -1,7 +1,7 @@
 name: Katsjing
 favicon: null
-layout_spectrum: 0.03529799450188875
-typography_spectrum: 0.08999580354429781
+layout_spectrum: 0.49684
+typography_spectrum: 0.49704
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#9DB4C0'
     - '#5C6B73'
     - '#253237'
-  brandStrength: 0.23410871485248208
-  lightness: 0.7406431073322892
-  saturation: 0.6174188409931958
-  rhythmicContrast: 0.2560499713290483
+  brandStrength: 0.6875
+  lightness: 0.5
+  saturation: 0.25
+  rhythmicContrast: 0.75
 purpose: []
